@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRO9I1P7PGLme2VoHJmCFsEmB0xm73yRFWkg5IN7fLYVr0dSXf0aYcREnRLyzxO7MSwy/hgfC8Wvm0bOGc4fXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robbe\\source\\repos\\MidiDomotica\\MidiDomotica.Persistence\\MidiDomotica.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robbe\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Robbe\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.256001\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.256001.nupkg.sha512",
+    "C:\\Users\\Robbe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Robbe\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

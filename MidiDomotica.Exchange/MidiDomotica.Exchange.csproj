@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+    <PackageReference Include="Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers" Version="0.3.256001">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="ControlEvents\AbstractEvents.cs" />
+    <Compile Remove="ControlEvents\Global\EventTypes.cs" />
+    <Compile Remove="ControlEvents\Global\GlobalEvents.cs" />
+    <Compile Remove="ControlEvents\Global\GlobalEventsEvents.cs" />
+    <Compile Remove="ControlEvents\Mode1\Mode1Events.cs" />
+    <Compile Remove="ControlEvents\Mode1\Mode1EventsEvents.cs" />
+    <Compile Remove="ControlEvents\Mode1\Mode1EventsLogic.cs" />
+    <Compile Remove="ControlEvents\Mode2\Mode2Events.cs" />
+    <Compile Remove="ControlEvents\Mode2\Mode2EventsEvents.cs" />
+    <Compile Remove="ControlEvents\Mode2\Mode2EventsLogic.cs" />
+    <Compile Remove="ControlEvents\Mode3\Mode3Events.cs" />
+    <Compile Remove="ControlEvents\Mode3\Mode3EventsEvents.cs" />
+    <Compile Remove="ControlEvents\Mode3\Mode3EventsLogic.cs" />
+    <Compile Remove="ControlEvents\Mode4\Mode4Events.cs" />
+    <Compile Remove="ControlEvents\Mode4\Mode4EventsEvents.cs" />
+    <Compile Remove="ControlEvents\Mode4\Mode4EventsLogic.cs" />
+    <Compile Remove="ControlEvents\Mode5\Mode5Events.cs" />
+    <Compile Remove="ControlEvents\Mode5\Mode5EventsEvents.cs" />
+    <Compile Remove="ControlEvents\Mode5\Mode5EventsLogic.cs" />
+    <Compile Remove="ControlEvents\Mode6\Mode6Events.cs" />
+    <Compile Remove="ControlEvents\Mode6\Mode6EventsEvents.cs" />
+    <Compile Remove="ControlEvents\Mode6\Mode6EventsLogic.cs" />
+    <Compile Remove="ControlEvents\Mode7\Mode7Events.cs" />
+    <Compile Remove="ControlEvents\Mode7\Mode7EventsEvents.cs" />
+    <Compile Remove="ControlEvents\Mode7\Mode7EventsLogic.cs" />
+    <Compile Remove="ControlEvents\Mode8\Mode8Events.cs" />
+    <Compile Remove="ControlEvents\Mode8\Mode8EventsEvents.cs" />
+    <Compile Remove="ControlEvents\Mode8\Mode8EventsLogic.cs" />
+    <Compile Remove="ControlEvents\PartialEvents.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SYWPipeNetworkManager/1.0.0": {
+        "dependencies": {
+          "SYWCentralLogging": "1.0.0"
+        },
+        "runtime": {
+          "SYWPipeNetworkManager.dll": {}
+        }
+      },
+      "SYWCentralLogging/1.0.0": {
+        "runtime": {
+          "SYWCentralLogging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SYWPipeNetworkManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SYWCentralLogging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

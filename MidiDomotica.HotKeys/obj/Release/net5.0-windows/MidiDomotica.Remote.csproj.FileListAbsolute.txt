@@ -1,0 +1,15 @@
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Release\net5.0-windows\Accord.dll.config
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Release\net5.0-windows\MidiDomotica.Remote.dll.config
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Release\net5.0-windows\MidiDomotica.Remote.deps.json
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Release\net5.0-windows\MidiDomotica.Remote.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Release\net5.0-windows\ref\MidiDomotica.Remote.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Release\net5.0-windows\MidiDomotica.Remote.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Release\net5.0-windows\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Release\net5.0-windows\MidiDomotica.Exchange.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Release\net5.0-windows\MidiDomotica.Remote.csproj.AssemblyReference.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Release\net5.0-windows\MidiDomotica.Remote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Release\net5.0-windows\MidiDomotica.Remote.csproj.CoreCompileInputs.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Release\net5.0-windows\MidiDomotica.Remote.csproj.CopyComplete
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Release\net5.0-windows\MidiDomotica.Remote.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Release\net5.0-windows\ref\MidiDomotica.Remote.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Release\net5.0-windows\MidiDomotica.Remote.pdb

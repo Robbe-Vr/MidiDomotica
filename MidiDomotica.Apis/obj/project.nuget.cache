@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgPddNdxZlrVq7T8zyMIDx4b1eAyCh4kua7aLC8JGDkhYKsiyLw0bGmPbXyzZmdH/NZc9VC9ICk+FaMxP8OeqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robbe\\source\\repos\\MidiDomotica\\MidiDomotica.Apis\\MidiDomotica.Apis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robbe\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Robbe\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.256001\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.256001.nupkg.sha512",
+    "C:\\Users\\Robbe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Robbe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Robbe\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

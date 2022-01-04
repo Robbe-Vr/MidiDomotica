@@ -1,0 +1,7 @@
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\bin\Debug\netstandard2.0\MidiDomotica.Exchange.deps.json
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\bin\Debug\netstandard2.0\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\bin\Debug\netstandard2.0\MidiDomotica.Exchange.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\obj\Debug\netstandard2.0\MidiDomotica.Exchange.csproj.AssemblyReference.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\obj\Debug\netstandard2.0\MidiDomotica.Exchange.csproj.CoreCompileInputs.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\obj\Debug\netstandard2.0\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\obj\Debug\netstandard2.0\MidiDomotica.Exchange.pdb

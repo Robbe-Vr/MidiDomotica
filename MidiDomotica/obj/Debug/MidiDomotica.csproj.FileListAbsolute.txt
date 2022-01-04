@@ -1,0 +1,10 @@
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica\bin\Debug\MidiDomotica.exe.config
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica\bin\Debug\MidiDomotica.exe
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica\bin\Debug\MidiDomotica.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica\obj\Debug\MidiDomotica.csproj.AssemblyReference.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica\obj\Debug\MidiDomotica.MidiDomotica.resources
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica\obj\Debug\MidiDomotica.Properties.Resources.resources
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica\obj\Debug\MidiDomotica.csproj.GenerateResource.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica\obj\Debug\MidiDomotica.csproj.CoreCompileInputs.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica\obj\Debug\MidiDomotica.exe
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica\obj\Debug\MidiDomotica.pdb

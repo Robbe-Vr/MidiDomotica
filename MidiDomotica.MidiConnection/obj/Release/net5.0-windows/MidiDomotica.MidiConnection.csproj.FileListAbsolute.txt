@@ -1,0 +1,13 @@
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\bin\Release\net5.0-windows\MidiDomotica.MidiConnection.deps.json
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\bin\Release\net5.0-windows\MidiDomotica.MidiConnection.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\bin\Release\net5.0-windows\ref\MidiDomotica.MidiConnection.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\bin\Release\net5.0-windows\MidiDomotica.MidiConnection.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\bin\Release\net5.0-windows\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\bin\Release\net5.0-windows\MidiDomotica.Exchange.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\obj\Release\net5.0-windows\MidiDomotica.MidiConnection.csproj.AssemblyReference.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\obj\Release\net5.0-windows\MidiDomotica.MidiConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\obj\Release\net5.0-windows\MidiDomotica.MidiConnection.csproj.CoreCompileInputs.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\obj\Release\net5.0-windows\MidiDomotica.MidiConnection.csproj.CopyComplete
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\obj\Release\net5.0-windows\MidiDomotica.MidiConnection.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\obj\Release\net5.0-windows\ref\MidiDomotica.MidiConnection.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.MidiConnection\obj\Release\net5.0-windows\MidiDomotica.MidiConnection.pdb

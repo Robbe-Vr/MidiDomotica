@@ -1,0 +1,10 @@
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Debug\netstandard2.0\MidiDomotica.Persistence.deps.json
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Debug\netstandard2.0\MidiDomotica.Persistence.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Debug\netstandard2.0\MidiDomotica.Persistence.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Debug\netstandard2.0\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Debug\netstandard2.0\MidiDomotica.Exchange.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Debug\netstandard2.0\MidiDomotica.Persistence.csproj.AssemblyReference.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Debug\netstandard2.0\MidiDomotica.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Debug\netstandard2.0\MidiDomotica.Persistence.csproj.CopyComplete
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Debug\netstandard2.0\MidiDomotica.Persistence.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Debug\netstandard2.0\MidiDomotica.Persistence.pdb

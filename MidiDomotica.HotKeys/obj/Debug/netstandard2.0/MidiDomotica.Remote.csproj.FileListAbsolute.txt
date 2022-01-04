@@ -1,0 +1,12 @@
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Debug\netstandard2.0\MidiDomotica.Remote.csproj.AssemblyReference.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Debug\netstandard2.0\MidiDomotica.Remote.csproj.CoreCompileInputs.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Debug\netstandard2.0\Accord.dll.config
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Debug\netstandard2.0\MidiDomotica.Remote.dll.config
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Debug\netstandard2.0\MidiDomotica.Remote.deps.json
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Debug\netstandard2.0\MidiDomotica.Remote.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Debug\netstandard2.0\MidiDomotica.Remote.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Debug\netstandard2.0\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\bin\Debug\netstandard2.0\MidiDomotica.Exchange.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Debug\netstandard2.0\MidiDomotica.Remote.csproj.CopyComplete
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Debug\netstandard2.0\MidiDomotica.Remote.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.HotKeys\obj\Debug\netstandard2.0\MidiDomotica.Remote.pdb

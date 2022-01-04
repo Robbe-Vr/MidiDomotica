@@ -1,0 +1,13 @@
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Release\net5.0-windows\MidiDomotica.Persistence.deps.json
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Release\net5.0-windows\MidiDomotica.Persistence.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Release\net5.0-windows\ref\MidiDomotica.Persistence.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Release\net5.0-windows\MidiDomotica.Persistence.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Release\net5.0-windows\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\bin\Release\net5.0-windows\MidiDomotica.Exchange.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Release\net5.0-windows\MidiDomotica.Persistence.csproj.AssemblyReference.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Release\net5.0-windows\MidiDomotica.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Release\net5.0-windows\MidiDomotica.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Release\net5.0-windows\MidiDomotica.Persistence.csproj.CopyComplete
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Release\net5.0-windows\MidiDomotica.Persistence.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Release\net5.0-windows\ref\MidiDomotica.Persistence.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Persistence\obj\Release\net5.0-windows\MidiDomotica.Persistence.pdb

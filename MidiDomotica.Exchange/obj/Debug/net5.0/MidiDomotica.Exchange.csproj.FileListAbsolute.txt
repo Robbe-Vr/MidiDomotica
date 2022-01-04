@@ -1,0 +1,9 @@
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\bin\Debug\net5.0\MidiDomotica.Exchange.deps.json
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\bin\Debug\net5.0\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\bin\Debug\net5.0\ref\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\bin\Debug\net5.0\MidiDomotica.Exchange.pdb
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\obj\Debug\net5.0\MidiDomotica.Exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\obj\Debug\net5.0\MidiDomotica.Exchange.csproj.CoreCompileInputs.cache
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\obj\Debug\net5.0\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\obj\Debug\net5.0\ref\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomotica\MidiDomotica.Exchange\obj\Debug\net5.0\MidiDomotica.Exchange.pdb

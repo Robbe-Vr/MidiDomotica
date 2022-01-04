@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libraries\SYWCentralLogging\SYWCentralLogging.csproj" />
+    <ProjectReference Include="..\..\Libraries\SYWPipeNetworkManager\SYWPipeNetworkManager.csproj" />
+    <ProjectReference Include="..\MidiDomotica.Exchange\MidiDomotica.Exchange.csproj" />
+    <ProjectReference Include="..\MidiDomotica.HotKeys\MidiDomotica.Remote.csproj" />
+    <ProjectReference Include="..\MidiDomotica.MidiConnection\MidiDomotica.MidiConnection.csproj" />
+    <ProjectReference Include="..\MidiDomotica.Persistence\MidiDomotica.Persistence.csproj" />
+    <ProjectReference Include="..\SYWCentralLogging\SYWCentralLogging.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="fasterflect" Version="3.0.0" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+    <PackageReference Include="System.Management" Version="6.0.0" />
+    <PackageReference Include="Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers" Version="0.3.256001">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+</Project>
